@@ -2,7 +2,7 @@
 
 Karte mit potentiellen Ex-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
 
-!(./me_overview.png)
+![Mettmann Übersicht](me_overview.png)
 
 Detailsansicht Goldberg / Stadtwald:
 
@@ -22,9 +22,9 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 
 
 
-# Verfahren zu Herstelung der Karte
+# Verfahren zu Herstellung der Karte
 - Karten
-https://www.reddit.com/r/TheSilphRoad/comments/7ojuoi/how_to_determine_which_gyms_are_eligible_from_ex/
+https://www.reddit.com/r/TheSilphRoad/comments/7ojuoi/how_to_determine_which_gyms_are_eligible_from_ex/ Kapitel 4.2
 - Tool osmcoverer: https://github.com/MzHub/osmcoverer
 - S2 L12
  https://www.reddit.com/r/TheSilphRoad/comments/7ow4ix/s2_cells_go_the_various_levels_applied_that_were/
