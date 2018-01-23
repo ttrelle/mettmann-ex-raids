@@ -9,7 +9,7 @@ Karte mit potentiellen Ex-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
 ![Mettmann Goldberg](me_goldberg.png)
 
 - Die Goldberger Mühle scheint gerade nicht in einer Park-Fläche zu liegen
-- Jubiläumsstein und Holzskulptur sind die der gleichen S2-Zellen
+- Jubiläumsstein und Holzskulptur sind die der *gleichen* S2-Zelle
 
 Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
 
