@@ -2,16 +2,16 @@
 
 Karte mit potentiellen Ex-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
 
-!(me_overview.png "Mettmann Übersicht")
+!(./me_overview.png)
 
 Detailsansicht Goldberg / Stadtwald:
 
-!(me_goldberg.png "Mettmann Goldberg")
+!(./me_goldberg.png)
 
 - Die Goldberger Mühle scheint gerade nicht in einer Park-Fläche zu liegen
 - Jubiläumsstein und Holzskulptur sind die der gleichen S2-Zellen
 
-Hier gibt's eine (http://bl.ocks.org/d/7f23238679709016bf8236eae521276d)[interaktive Version der Karte]. Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
+Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
 
 # Ex-Raid Historie in Mettmann
 - 16.01.2018 Mettmann  Jubiläumstein 1000
