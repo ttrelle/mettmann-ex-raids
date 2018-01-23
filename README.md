@@ -1,17 +1,30 @@
 # Ex-Raid-Arenen in Mettmann
 
-TODO
+Karte mit potentiellen Ex-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
+
+!(me_overview.png "Mettmann Übersicht")
+
+Detailsansicht Goldberg / Stadtwald:
+
+!(me_goldberg.png "Mettmann Goldberg")
+
+- Die Goldberger Mühle scheint gerade nicht in einer Park-Fläche zu liegen
+- Jubiläumsstein und Holzskulptur sind die der gleichen S2-Zellen
+
+Hier gibt's eine (http://bl.ocks.org/d/7f23238679709016bf8236eae521276d)[interaktive Version der Karte]. Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
+
+# Ex-Raid Historie in Mettmann
+- 16.01.2018 Mettmann  Jubiläumstein 1000
 
 
-Karten
+# Ex-Raid Intervalle:
+- https://www.reddit.com/r/TheSilphRoad/comments/7qg8pf/updated_ex_raid_invites_pattern_recognition/
+
+
+
+# Verfahren zu Herstelung der Karte
+- Karten
 https://www.reddit.com/r/TheSilphRoad/comments/7ojuoi/how_to_determine_which_gyms_are_eligible_from_ex/
-
-Ex-Raid Interval https://www.reddit.com/r/TheSilphRoad/comments/7qg8pf/updated_ex_raid_invites_pattern_recognition/
-
-S2 L12
+- Tool osmcoverer: https://github.com/MzHub/osmcoverer
+- S2 L12
  https://www.reddit.com/r/TheSilphRoad/comments/7ow4ix/s2_cells_go_the_various_levels_applied_that_were/
-
-
-Live:
-
-http://bl.ocks.org/d/7f23238679709016bf8236eae521276d
