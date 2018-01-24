@@ -23,5 +23,4 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 - Karten
 https://www.reddit.com/r/TheSilphRoad/comments/7ojuoi/how_to_determine_which_gyms_are_eligible_from_ex/ Kapitel 4.2
 - Tool [osmcoverer](https://github.com/MzHub/osmcoverer)
-- [S2 Zellen In Pokemon Go]
- (https://www.reddit.com/r/TheSilphRoad/comments/7ow4ix/s2_cells_go_the_various_levels_applied_that_were/)
+- [S2 Zellen in Pokemon Go](https://www.reddit.com/r/TheSilphRoad/comments/7ow4ix/s2_cells_go_the_various_levels_applied_that_were/)
