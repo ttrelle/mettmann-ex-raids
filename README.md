@@ -15,6 +15,7 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 
 # Ex-Raid Historie in Mettmann
 - 16.01.2018 Mettmann Jubiläumstein 1000
+- 03.02.2018 Mettmann Jubiläumstein 1000 (Einladungen DO 01.02.2018)
 
 # Ex-Raid Intervalle:
 - https://www.reddit.com/r/TheSilphRoad/comments/7qg8pf/updated_ex_raid_invites_pattern_recognition/
