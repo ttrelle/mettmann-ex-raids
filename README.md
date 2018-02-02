@@ -14,8 +14,11 @@ Karte mit potentiellen Ex-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
 Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
 
 # Ex-Raid Historie in Mettmann
-- 16.01.2018 Mettmann Jubiläumstein 1000
-- 03.02.2018 Mettmann Jubiläumstein 1000 (Einladungen DO 01.02.2018)
+
+| Arena | Ex-Raid Datum | Datum der Einladung  |
+| ------------- |-------------|-----|
+| Mettmann Jubiläumstein 1000 | 16.01.2018 | 07.01.2018 |
+| Mettmann Jubiläumstein 1000 | 03.02.2018 17:30 | 01.02.2018 |
 
 # Ex-Raid Intervalle:
 - https://www.reddit.com/r/TheSilphRoad/comments/7qg8pf/updated_ex_raid_invites_pattern_recognition/
