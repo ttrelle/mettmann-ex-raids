@@ -19,6 +19,7 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 | ------------- |-------------|-----|
 | Mettmann Jubiläumstein 1000 | 16.01.2018 | 07.01.2018 |
 | Mettmann Jubiläumstein 1000 | 03.02.2018 17:30 | 01.02.2018 |
+| Holzskulptur mit Kalksteine | 11.02.2018 14:30 | 06.02.2018 |
 
 # Links
 - [Tutorial zur Identifizierung potentieller EX-Raid Arenen](https://blog.codecentric.de/2018/02/ex-raid-arenen-pokemon-go/)
