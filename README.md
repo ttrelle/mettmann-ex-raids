@@ -8,8 +8,8 @@ Karte mit potentiellen EX-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
 
 ![Mettmann Stadtwald](me_stadtwald.png)
 
-- Die Goldberger Mühle scheint gerade nicht in einer Park-Fläche zu liegen
-- Jubiläumsstein und Holzskulptur sind in der *gleichen* S2-Zelle
+- Die _Goldberger Mühle_ scheint gerade nicht in einer Park-Fläche zu liegen
+- _Mettmann Jubiläumsstein 1000_ und _Holzskulptur mit Kalksteine_ sind in der *gleichen* S2-Zelle
 
 Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
 
@@ -22,6 +22,7 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 | Holzskulptur mit Kalksteine | 11.02.2018 14:30 | 06.02.2018 |
 | Holzskulptur mit Kalksteine | 10.03.2018 18:00 | ??? |
 | Mettmann Jubiläumstein 1000 | 17.03.2018 13:00 | 09.03.2018 |
+| Holzskulptur mit Kalksteine | 08.04.2018 14:30 | 29.03.2018 |
 
 
 # Links
