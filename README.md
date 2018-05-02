@@ -24,6 +24,7 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 | Mettmann Jubiläumstein 1000 | 17.03.2018 13:00 | 09.03.2018 |
 | Holzskulptur mit Kalksteine | 08.04.2018 14:30 | 29.03.2018 |
 | Holzskulptur mit Kalksteine | 30.04.2018 18:00 | 21.04.2018 |
+| Mettmann Jubiläumstein 1000 | 08.05.2018 13:00 | 28.04.2018 |
 
 
 # Links
