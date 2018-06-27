@@ -30,6 +30,7 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 | Holzskulptur mit Kalksteine | 06.06.2018 11:30 | 27.05.2018 |
 | Mettmann Jubiläumstein 1000 | 13.06.2018 13:00 | 04.06.2018 |
 | Mettmann Jubiläumstein 1000 | 28.06.2018 13:00 | 20.06.2018 |
+| Holzskulptur mit Kalksteine | 06.07.2018 13:00 | 26.06.2018 |
 
 # Links
 - [Tutorial zur Identifizierung potentieller EX-Raid Arenen](https://blog.codecentric.de/2018/02/ex-raid-arenen-pokemon-go/)
