@@ -1,18 +1,3 @@
-# EX-Raid Arenen in Mettmann
-
-Karte mit potentiellen EX-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
-
-![Mettmann Übersicht](me_overview.png)
-
-## Detailsansicht Stadtwald:
-
-![Mettmann Stadtwald](me_stadtwald.png)
-
-- Die _Goldberger Mühle_ scheint gerade nicht in einer Park-Fläche zu liegen
-- _Mettmann Jubiläumsstein 1000_ und _Holzskulptur mit Kalksteine_ sind in der *gleichen* S2-Zelle
-
-Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
-
 # EX-Raid Historie in Mettmann
 
 | Arena | Ex-Raid Datum | Datum der Einladung  |
@@ -33,6 +18,23 @@ Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679
 | Holzskulptur mit Kalksteine | 06.07.2018 13:00 | 26.06.2018 |
 | Mettmann Jubiläumstein 1000 | 19.08.2018 15:30 |  |
 | Holzskulptur mit Kalksteine | 03.09.2018 15:00 |  |
+| Mettmann Jubiläumstein 1000 | 10.09.2018 17:30 |  |
+
+# EX-Raid Arenen in Mettmann
+Karte mit potentiellen EX-Raid-Arenen (grüne Flächen = Parks gemäß OSM):
+
+![Mettmann Übersicht](me_overview.png)
+
+## Detailsansicht Stadtwald:
+
+![Mettmann Stadtwald](me_stadtwald.png)
+
+- Die _Goldberger Mühle_ scheint gerade nicht in einer Park-Fläche zu liegen
+- _Mettmann Jubiläumsstein 1000_ und _Holzskulptur mit Kalksteine_ sind in der *gleichen* S2-Zelle
+
+Hier gibt's eine [interaktive Version der Karte](http://bl.ocks.org/d/7f23238679709016bf8236eae521276d). Achtung: lädt langsam wg. des feines Rasters der Parkflächen.
+
+
 
 # Links
 - [Tutorial zur Identifizierung potentieller EX-Raid Arenen](https://blog.codecentric.de/2018/02/ex-raid-arenen-pokemon-go/)
