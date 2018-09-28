@@ -1,5 +1,11 @@
 # EX-Raid Historie in Mettmann
 
+## Deoxys
+| Arena | Ex-Raid Datum |
+| ------------- |-------------|
+| Holzskulptur mit Kalksteine | 02.10.2018 16:00 |
+
+## Mewtu
 | Arena | Ex-Raid Datum | Datum der Einladung  |
 | ------------- |-------------|-----|
 | Mettmann Jubiläumstein 1000 | 16.01.2018 | 07.01.2018 |
