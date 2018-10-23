@@ -4,6 +4,8 @@
 | Arena | Ex-Raid Datum |
 | ------------- |-------------|
 | Holzskulptur mit Kalksteine | 02.10.2018 16:00 |
+| Holzskulptur mit Kalksteine | 16.10.2018 13:00 |
+| Holzskulptur mit Kalksteine | 31.10.2018 13:00 |
 
 ## Mewtu
 | Arena | Ex-Raid Datum | Datum der Einladung  |
